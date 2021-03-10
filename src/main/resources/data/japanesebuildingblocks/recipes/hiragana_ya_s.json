@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "japanesebuildingblocks:hiragana_ya"
+    }
+  ],
+  "result":
+  {
+    "item": "japanesebuildingblocks:hiragana_ya_s",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "japanesebuildingblocks:hiragana_blueprint"
+    },
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "result":
+  {
+    "item": "japanesebuildingblocks:hiragana_sa_blueprint",
+    "count": 1
+  }
+}

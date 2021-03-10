@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "japanesebuildingblocks:katakana_o"
+    }
+  ],
+  "result":
+  {
+    "item": "japanesebuildingblocks:katakana_o_s",
+    "count": 1
+  }
+}

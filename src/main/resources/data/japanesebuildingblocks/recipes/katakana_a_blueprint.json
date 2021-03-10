@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "japanesebuildingblocks:katakana_blueprint"
+    }
+  ],
+  "result":
+  {
+    "item": "japanesebuildingblocks:katakana_a_blueprint",
+    "count": 1
+  }
+}

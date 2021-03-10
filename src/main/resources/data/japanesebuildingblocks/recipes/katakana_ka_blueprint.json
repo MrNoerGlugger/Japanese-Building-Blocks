@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "japanesebuildingblocks:katakana_blueprint"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "result":
+  {
+    "item": "japanesebuildingblocks:katakana_ka_blueprint",
+    "count": 1
+  }
+}

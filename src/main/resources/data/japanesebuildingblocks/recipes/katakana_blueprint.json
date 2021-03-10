@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "result":
+  {
+    "item": "japanesebuildingblocks:katakana_blueprint",
+    "count": 16
+  }
+}
