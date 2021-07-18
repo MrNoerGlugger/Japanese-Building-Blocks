@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "japanesebuildingblocks:katakana_he_cutting"
+    ]
+  },
+  "criteria": {
+    "has_blank_slate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "japanesebuildingblocks:blank_slate"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "japanesebuildingblocks:katakana_he_cutting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_blank_slate",
+      "has_the_recipe"
+    ]
+  ]
+}

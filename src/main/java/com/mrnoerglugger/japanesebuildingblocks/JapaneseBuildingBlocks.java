@@ -23,17 +23,18 @@ public class JapaneseBuildingBlocks {
         MinecraftForge.EVENT_BUS.register(this);
     }
 
-    public static final ItemGroup BLUEPRINT_TAB = new ItemGroup("blueprintTab") {
+    public static final ItemGroup BLUEPRINT_TAB = new ItemGroup("blueprinttab") {
 
         @Override
-        public ItemStack createIcon() {
+        public ItemStack makeIcon() {
             return new ItemStack(ModItems.HIRAGANA_BLUEPRINT.get());
         }
     };
-    public static final ItemGroup BLOCK_TAB = new ItemGroup("blockTab") {
+
+    public static final ItemGroup BLOCK_TAB = new ItemGroup("blocktab") {
 
         @Override
-        public ItemStack createIcon() {
+        public ItemStack makeIcon() {
             return new ItemStack(ModBlocks.BLANK_SLATE.get());
         }
     };

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "japanesebuildingblocks:blank_slate"
+  },
+  "result": "japanesebuildingblocks:katakana_tsu_s",
+  "count": 1
+}
